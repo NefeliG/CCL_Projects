@@ -1,0 +1,68 @@
+.container1{
+  display: inline-block;
+  font-family: monospace;
+}
+h1{
+  font-size: 28px;
+    font-family: monospace;
+}
+
+.second{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#button1{
+  font-size: 25px;
+}
+
+#meat{
+  border: 10px solid MistyRose;
+  padding: 20px;
+  margin-right: 1200px
+}
+
+#sugar{
+  border: 10px solid MistyRose;
+  padding: 20px;
+  margin-right: 1200px
+}
+
+#meat_desc{
+  border: 10px solid paleturquoise;
+  padding: 20px;
+}
+
+#sugar_desc{
+  border: 10px solid paleturquoise;
+  padding: 20px;
+}
+
+a{
+font-size: 24px;
+float: right;
+}
+
+
+h2 {
+  font-family: monospace;
+font-size: 18px;
+line-height: 200%
+}
+
+h3 {
+  font-family: monospace;
+  font-size: 28px;
+  line-height: 200%
+}
+
+
+h4 {
+  font-family: monospace;
+font-size: 18px;
+line-height: 200%
+}
+
+.pic{
+  display: inline-block;
+}

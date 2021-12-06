@@ -1,0 +1,65 @@
+.container1{
+  display: inline-block;
+  font-family: monospace;
+}
+
+h1{
+font-family: monospace;
+}
+
+a{
+font-size: 24px;
+float: right;
+}
+
+.first{
+  padding-left: 50px;
+  padding-right:
+}
+
+
+
+
+#dairy{
+  border: 10px solid MistyRose;
+  padding: 20px;
+  margin-right: 1200px
+}
+
+#wheat{
+  border: 10px solid MistyRose;
+  padding: 20px;
+  margin-right: 1200px
+}
+
+
+
+#dairy_desc{
+  border: 10px solid paleturquoise;
+  padding: 20px;
+}
+
+#wheat_desc{
+  border: 10px solid paleturquoise;
+  padding: 20px;
+}
+
+
+
+
+
+h2{
+  font-size: 20px;
+  font-family: monospace;S
+}
+
+h3{
+  font-size: 24px;
+  font-family: monospace;
+}
+
+h4{
+  font-family: monospace;
+font-size: 18px;
+line-height: 200%
+}

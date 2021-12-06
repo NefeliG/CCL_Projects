@@ -1,0 +1,60 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+#move{
+  position: absolute;
+  margin-left: 500px;
+  width: 500px;
+  top: 500px;
+}
+
+.real{
+  position: absolute;
+  top: 200px;
+}
+
+.anthema{
+  text-align: right;
+}
+
+.butt{
+  position: absolute;
+}
+ h1 {
+   font-size: 25px;
+     font-family: monospace;
+     div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;s
+  margin: 20px;
+}
+}
+h2 {
+  font-family: monospace;
+
+}
+.linked-image {
+  position: absolute;
+  width: 30%;
+  right: 0.1%;
+
+}
+
+
+#hello{
+font-size: 24px;
+  position:absolute;
+                bottom:0;
+                right:0;
+
+}
+#move{
+  border: 10px solid MediumVioletRed;
+  padding: 20px;
+
+}
